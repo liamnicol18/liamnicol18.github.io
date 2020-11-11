@@ -1,0 +1,20 @@
+body {
+	background-color:Peru;
+	margin: 15px 20px 15px 20px;
+}
+
+h1 {
+	font-family:Helvetica, Verdana, sans-serif;
+	text-align:center;
+}
+
+p {
+	margin: 20px 20px 20px 20px;
+	font-family:"Comic Sans", Arial, sans-serif;
+}
+
+ul {
+	margin: 25px 25px 25px 25px;
+	font-family:"Comic Sans", Arial, sans-serif;
+	font-size: 25px;
+}
